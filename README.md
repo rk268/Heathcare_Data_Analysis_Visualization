@@ -164,9 +164,9 @@ Through this project, I:
 
 If you're working on healthcare analytics or BI solutions and want to connect, reach out:
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: youremail@example.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rupak-kulkarni/)
+- 📧 Email: rupakkul97@gmail.com
 
 ---
 
-> ⚠️ Note: This project is for educational purposes only. Data has been de-identified and synthetic in nature for demo use.
+
